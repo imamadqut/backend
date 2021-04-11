@@ -1,0 +1,21 @@
+{% extends "base.html" %}
+
+{% block content_ %}
+
+<div class="container py-5">
+    <div class="row">
+        <div class="col">
+            <h2>Daftar Mahasiswa: </h2>
+            <img src="{{ mahasiswa['foto']}}" alt="">
+            <h4>{{ mahasiswa['nama'] }}</h4>
+            <h4>{{ mahasiswa['email'] }}</h4>
+            {% if mahasiswa['nilai'] > 50 %}
+            <p class="text-success"> lulus</p>
+            {% else %}
+            <p class="text-danger"> tdiak lulus</p>
+            {% endif %}
+
+        </div>
+    </div>
+</div>
+{% endblock %}
