@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "mahasiswa-cd585",
+  "private_key_id": "1ef86d058b137581f7c16c23e13227d695914bff",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCjZsl+5NKACgXn\nYGyNYsoMSCiv6OdV5qEV0QA/eX8DCzxVA7AOclTpfNi+nww5WGSczSNqSTn1K309\nLjlGj0RlqivWRYRhf+v2BDvD1/+KXLvBR/hJFYY4KvnrGzN2XmyrYwr8wL5jmIb1\nPvmlczNRKLDUxlRxLhhfDp7eN5aFwNbW5r/Evq0hVum4JLtiZ7cdMLg3H3SwNCJ4\nyidDfzB/9JcZKDHZZahjhgWQXs50IbBM+bBbiDoSbEsEG09dJqIQa0np7kW5NzbI\nO6v3FPSHb+HO4agL+aVmYKrUlQuxhUrd/1kFn8fT2W1NZZxf4gQ/uMiCab9nbMzV\nDG3cxg5lAgMBAAECggEABevoq2+RbVBvrFXjOTB2UAGhb9aJ46QK/GZpkuNNRgf3\nNMGAdNWR3DBJDodnAwEADGqmuOhUcF0WGcx+CN+SQ/jpw8cbKAlhvLWkkNFYEmSP\n7U41Yjikd46fJfUDZWvAlmltcYFupN9XLLYOh/9nwa4u0lcpojxgZ7l46marTseC\nbQpK8CaBAxchVdu2z2xTatNu5vm9kPn25rdZnU6tITjA+U61C8kSBbR8E17hwLZ9\nJikl3gd6hyppOn6uN/gpVYcjZDx0oyszHlg+AMw6N5OKly9okDgAiHSxeILFYFN5\nJ1jllWZQt5TjimWcQZXtmaF5lsqSMXhcrBW7Ay5qAQKBgQDSsxCxiKJy7sNyDT0j\nFEcNFtfIQndobUPVcMM8JzBtogdtITHE2e2CRP5Bl84oCrMmFbWId+Bf4yOD6jqz\nJCyFOCGNq+uILp7htw3LKB31Xg2n3eXSPrUrOGtoo8OLOA9k6+4+QFtnr3uQxCUA\nJ7A5hejD35u0hzOboLebM3Nq5QKBgQDGiG8edpeg9vQAPPQ99nrmsaQYjFrP7g0Y\nCIn0atrXJG7r4BFVxSSGZkNzXCrGk6jC19ctealNIGp5Le+ftaYBEZTD9nR4z+vW\nkkWpghYJ2p2ZsBg1/X8IoLq8nhdA+dqhMfsD4yK7jwNOHY3uw96qi1jjFbDw5OgC\n6iD3NihdgQKBgAHheU+sYY7XFMWK2rXac3vpbUmrVjeHaiiYlhWOX/9Kh/hwaGpS\na61TAlYBjeSLm+fGH9W1BDq241VFHPsGYqNZyeri0vpnOCHZqXTbydCr40FRWMDU\nsHdPTJ4lgBRZDsIe3QSPPIGjbl3vckkbEZah3F8LOu+UmWBVQe5PukMFAoGBAIzT\nyr65MOWlR3/DvR0W8icia1xecyx7mB4sMG+IPKPP3D7FOoa0ySvs7nuuLUmfBF7x\n7Fj9q/JhxCUhSJDpsU+gwP4gnI32LzyNlYygEjH7OUADgakKoEnmeY/CNIyKr2MY\nqQ4g2EpjL90BaeSsXA5tuiebA2Bdf5ZRrgCuEgQBAoGBAKXvUub31KuEj2UiU1nU\nJLgkZa0gPW8pcU+gqG34wk+cVLzsMn8a7hlhteaH8gzUsQHTDnB5GQbRw5wN3wWA\n1uHGmelkxrdIzgnJGVD5Q2mWmBpKe1B6iq468LN+GsOfMToDhWd2baCPsqFflYsn\nIhUouSUxSQp8XZl6I0ghR7uS\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-n4u9f@mahasiswa-cd585.iam.gserviceaccount.com",
+  "client_id": "116881352916023361219",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n4u9f%40mahasiswa-cd585.iam.gserviceaccount.com"
+}
